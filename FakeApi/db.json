@@ -1,0 +1,84 @@
+{
+    "jogos": [
+      {
+        "id": 1,
+        "titulo": "The Witcher III: WildHunt",
+        "descricao": "Você é Geralt de Rívia, mercenário matador de monstros. Você está em um continente devastado pela guerra e infestado de monstros para você explorar à vontade. Sua tarefa é encontrar Ciri, a Criança da Profecia — uma arma viva que pode alterar a forma do mundo",
+        "dataDeLancamento": "25/05/2015",
+        "generos": "Mundo aberto, rpg, fantasia, aventura",
+        "desenvolvedora": "CD PROJEKT RED"
+      },
+      {
+        "id": 2,
+        "titulo": "Darkest Dungeon",
+        "descricao": "Darkest Dungeon é um jogo gótico desafiante em turnos de RPG sobre os estresses psicológicos vivenciados em aventuras. Recrute, treine e lidere uma equipe de heróis imperfeitos através de florestas corrompidas, labirintos esquecidos, criptas arruinadas e além",
+        "dataDeLancamento": "19/01/2016",
+        "generos": "Rpg, roguelike, combate em turnos, terror",
+        "desenvolvedora": "Red Hook Studios"
+      },
+      {
+        "id": 3,
+        "titulo": "The Elder Scrolls V: Skyrim",
+        "descricao": "Skyrim reimagina e revoluciona o épico de fantasia de mundo aberto, trazendo à vida um mundo virtual completo aberto para você explorar da maneira que escolher",
+        "dataDeLancamento": "10/01/2011",
+        "generos": "Rpg, mundo aberto, fantasia, aventura",
+        "desenvolvedora": "Bethesda Game Studios"
+      },
+      {
+        "id": 4,
+        "titulo": "Fallout IV",
+        "descricao": "Como único sobrevivente do Vault 111, você entra em um mundo destruído pela guerra nuclear. Cada segundo é uma luta pela sobrevivência e cada escolha é sua. Só você pode reconstruir e determinar o destino de Wasteland. Bem-vindo a casa",
+        "dataDeLancamento": "10/11/2015",
+        "generos": "Rpg, exploração, atmosférico, ação",
+        "desenvolvedora":"Bethesda Game Studios"
+      },
+      {
+        "id": 5,
+        "titulo": "Grand Theft Auto: San Andreas",
+        "descricao": ": Cinco anos atrás, Carl Johnson escapou das pressões da vida em Los Santos, San Andreas... uma cidade se destruindo com problemas de gangues, drogas e corrupção. Onde estrelas de cinema e milionários fazem o possível para evitar traficantes e gangbangers. Agora, é o início dos anos 90. Carl tem que ir para casa",
+        "dataDeLancamento": "26/10/2004",
+        "generos": "Ação, crime, mundo aberto, tiro",
+        "desenvolvedora": "Rockstar Games"
+      },
+      {
+        "id": 6,
+        "titulo": "Mount & Blade: Warband",
+        "descricao": "Em uma terra dilacerada pela guerra incessante, é hora de reunir seu próprio bando de guerreiros endurecidos e entrar na briga. Lidere seus homens na batalha, expanda seu reino e reivindique o prêmio final: o trono de Calradia",
+        "dataDeLancamento": "31/03/2010",
+        "generos": "Medieval, rpg, mundo aberto, estratégia",
+        "desenvolvedora": "TaleWorlds Entertainment"
+      },
+      {
+        "id": 7,
+        "titulo": "War Thunder",
+        "descricao": "War Thunder é um MMO de combate grátis, dedicado a veículos militares dos períodos da 2ª Guerra Mundial e Guerra da Coreia. Lute em grandes batalhas no ar, terra e mar, com jogadores internacionais num ambiente sempre em desenvolvimento",
+        "dataDeLancamento": "15/08/2013",
+        "generos": "Simulação, militar, combate, guerra",
+        "desenvolvedora": "Gaijin Entertainment"
+      },
+      {
+        "id": 8,
+        "titulo": "Russian Fishing IV",
+        "descricao": ": Russian Fishing 4 é um simulador de pesca com elementos de RPG. Não há enredo e todo o processo é baseado no conceito de um jogo aberto, livre para se movimentar e livre para jogar",
+        "dataDeLancamento": "11/11/2021",
+        "generos": "Pesca, natureza, simulação, casual",
+        "desenvolvedora": "FishSoft LLC"
+      },
+      {
+        "id": 9,
+        "titulo": "Terraria",
+        "descricao": "Cave, lute, explore, construa! Nada é impossível neste jogo de aventura cheio de ação.",
+        "dataDeLancamento": "16/05/2015",
+        "generos": "Plataforma, sobrevivência, exploração, construção",
+        "desenvolvedora": "Re-Logic"
+      },
+      {
+        "id": 10,
+        "titulo": "Battle Brothers",
+        "descricao": "Battle Brothers é um RPG tático baseado em turnos no qual você lidera uma companhia de mercenários em um mundo de fantasia medieval corajoso e de baixa potência. Você decide para onde ir, quem contratar ou lutar, quais contratos aceitar e como treinar e equipar seus homens em uma campanha de mundo aberto gerada processualmente.",
+        "dataDeLancamento": "24/03/2017",
+        "generos": "Rpg tático, combate por turnos, estratégia, medieval",
+        "desenvolvedora": "Overhype Studios"
+      }
+    ]
+  }
